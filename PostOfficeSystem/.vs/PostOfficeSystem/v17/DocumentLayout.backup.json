@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|c:\\users\\lenovo\\onedrive\\desktop\\zfolder\\postofficesystem\\postofficesystem\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|solutionrelative:postofficesystem\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|c:\\users\\lenovo\\onedrive\\desktop\\zfolder\\postofficesystem\\postofficesystem\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|solutionrelative:postofficesystem\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|c:\\users\\lenovo\\onedrive\\desktop\\zfolder\\postofficesystem\\postofficesystem\\postofficedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|solutionrelative:postofficesystem\\postofficedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|c:\\users\\lenovo\\onedrive\\desktop\\zfolder\\postofficesystem\\postofficesystem\\deletepostofficedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|solutionrelative:postofficesystem\\deletepostofficedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|c:\\users\\lenovo\\onedrive\\desktop\\zfolder\\postofficesystem\\postofficesystem\\deletepostofficedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|solutionrelative:postofficesystem\\deletepostofficedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|c:\\users\\lenovo\\onedrive\\desktop\\zfolder\\postofficesystem\\postofficesystem\\editpostofficedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|solutionrelative:postofficesystem\\editpostofficedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|c:\\users\\lenovo\\onedrive\\desktop\\zfolder\\postofficesystem\\postofficesystem\\editpostofficedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|solutionrelative:postofficesystem\\editpostofficedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|c:\\users\\lenovo\\onedrive\\desktop\\zfolder\\postofficesystem\\postofficesystem\\detailspostoffice.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|solutionrelative:postofficesystem\\detailspostoffice.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|c:\\users\\lenovo\\onedrive\\desktop\\zfolder\\postofficesystem\\postofficesystem\\detailspostoffice.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|solutionrelative:postofficesystem\\detailspostoffice.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|c:\\users\\lenovo\\onedrive\\desktop\\zfolder\\postofficesystem\\postofficesystem\\addpostofficerecord.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|solutionrelative:postofficesystem\\addpostofficerecord.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|c:\\users\\lenovo\\onedrive\\desktop\\zfolder\\postofficesystem\\postofficesystem\\addpostofficerecord.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|solutionrelative:postofficesystem\\addpostofficerecord.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|c:\\users\\lenovo\\onedrive\\desktop\\zfolder\\postofficesystem\\postofficesystem\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|solutionrelative:postofficesystem\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|c:\\users\\lenovo\\onedrive\\desktop\\zfolder\\postofficesystem\\postofficesystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{501AF08C-7C35-4D72-AD01-E09DA5E9F168}|PostOfficeSystem\\PostOfficeSystem.csproj|solutionrelative:postofficesystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\Site.Master",
+              "RelativeDocumentMoniker": "PostOfficeSystem\\Site.Master",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\Site.Master*",
+              "RelativeToolTip": "PostOfficeSystem\\Site.Master*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-15T14:31:33.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeletePostOfficeDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\DeletePostOfficeDetails.aspx.cs",
+              "RelativeDocumentMoniker": "PostOfficeSystem\\DeletePostOfficeDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\DeletePostOfficeDetails.aspx.cs",
+              "RelativeToolTip": "PostOfficeSystem\\DeletePostOfficeDetails.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:29:01.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditPostOfficeDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\EditPostOfficeDetails.aspx.cs",
+              "RelativeDocumentMoniker": "PostOfficeSystem\\EditPostOfficeDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\EditPostOfficeDetails.aspx.cs",
+              "RelativeToolTip": "PostOfficeSystem\\EditPostOfficeDetails.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:28:28.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetailsPostOffice.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\DetailsPostOffice.aspx.cs",
+              "RelativeDocumentMoniker": "PostOfficeSystem\\DetailsPostOffice.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\DetailsPostOffice.aspx.cs",
+              "RelativeToolTip": "PostOfficeSystem\\DetailsPostOffice.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:27:38.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddPostOfficeRecord.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\AddPostOfficeRecord.aspx.cs",
+              "RelativeDocumentMoniker": "PostOfficeSystem\\AddPostOfficeRecord.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\AddPostOfficeRecord.aspx.cs",
+              "RelativeToolTip": "PostOfficeSystem\\AddPostOfficeRecord.aspx.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:26:24.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddPostOfficeRecord.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\AddPostOfficeRecord.aspx",
+              "RelativeDocumentMoniker": "PostOfficeSystem\\AddPostOfficeRecord.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\AddPostOfficeRecord.aspx",
+              "RelativeToolTip": "PostOfficeSystem\\AddPostOfficeRecord.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-15T14:25:25.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeletePostOfficeDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\DeletePostOfficeDetails.aspx",
+              "RelativeDocumentMoniker": "PostOfficeSystem\\DeletePostOfficeDetails.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\DeletePostOfficeDetails.aspx",
+              "RelativeToolTip": "PostOfficeSystem\\DeletePostOfficeDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-15T14:25:07.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditPostOfficeDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\EditPostOfficeDetails.aspx",
+              "RelativeDocumentMoniker": "PostOfficeSystem\\EditPostOfficeDetails.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\EditPostOfficeDetails.aspx",
+              "RelativeToolTip": "PostOfficeSystem\\EditPostOfficeDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-15T14:24:47.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetailsPostOffice.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\DetailsPostOffice.aspx",
+              "RelativeDocumentMoniker": "PostOfficeSystem\\DetailsPostOffice.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\DetailsPostOffice.aspx",
+              "RelativeToolTip": "PostOfficeSystem\\DetailsPostOffice.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-15T14:24:31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "PostOfficeSystem\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\Default.aspx.cs",
+              "RelativeToolTip": "PostOfficeSystem\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:23:31.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\Default.aspx",
+              "RelativeDocumentMoniker": "PostOfficeSystem\\Default.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\Default.aspx",
+              "RelativeToolTip": "PostOfficeSystem\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-15T14:23:19.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\Web.config",
+              "RelativeDocumentMoniker": "PostOfficeSystem\\Web.config",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\Web.config",
+              "RelativeToolTip": "PostOfficeSystem\\Web.config",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-15T14:22:22.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostOfficeDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\PostOfficeDataAccess.cs",
+              "RelativeDocumentMoniker": "PostOfficeSystem\\PostOfficeDataAccess.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\zFolder\\PostOfficeSystem\\PostOfficeSystem\\PostOfficeDataAccess.cs",
+              "RelativeToolTip": "PostOfficeSystem\\PostOfficeDataAccess.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAkwEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:21:56.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
